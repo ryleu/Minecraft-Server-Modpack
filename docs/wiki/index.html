@@ -1,2 +1,23 @@
 <!DOCTYPE HTML>
-<iframe width="100vw" height="100vh" src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<script type="application/javascript">
+
+function resizeIFrameToFitContent( iFrame ) {
+
+    iFrame.width  = iFrame.contentWindow.document.body.scrollWidth;
+    iFrame.height = iFrame.contentWindow.document.body.scrollHeight;
+}
+
+window.addEventListener('DOMContentLoaded', function(e) {
+
+    var iFrame = document.getElementById( 'iFrame1' );
+    resizeIFrameToFitContent( iFrame );
+
+    // or, to resize all iframes:
+    var iframes = document.querySelectorAll("iframe");
+    for( var i = 0; i < iframes.length; i++) {
+        resizeIFrameToFitContent( iframes[i] );
+    }
+} );
+
+</script>
+<iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen id="iFrame1"></iframe>
