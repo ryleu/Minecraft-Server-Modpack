@@ -1,2 +1,2 @@
 # Minecraft-Server-Modpack
-Modpack (and website) for FourInchKnife's modded Minecraft server.
+Modpack (and wiki) for FourInchKnife's modded Minecraft server.
