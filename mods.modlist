@@ -1,0 +1,33 @@
+# New mods
+N https://www.curseforge.com/minecraft/mc-mods/artificial-foliage/
+N https://www.curseforge.com/minecraft/mc-mods/extra-alchemy
+N https://www.curseforge.com/minecraft/mc-mods/villager-hats
+N https://www.curseforge.com/minecraft/mc-mods/bouncy-life
+N https://www.curseforge.com/minecraft/mc-mods/linked-storage
+N https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
+N https://www.curseforge.com/minecraft/mc-mods/wall-jump-fabric
+
+# Might be similar to stuff we have
+W https://www.curseforge.com/minecraft/mc-mods/medievalweapons
+
+# Custom mod made by me
+C https://github.com/FourInchKnife/Minecraft-Server-Version-Mod
+
+# Already in the base pack
+A https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric
+A https://www.curseforge.com/minecraft/mc-mods/draylars-battle-towers
+A https://www.curseforge.com/minecraft/mc-mods/mo-structures
+A https://www.curseforge.com/minecraft/mc-mods/promenade
+A https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric
+
+#---------- ---------- ---------- ---------- ---------- ---------- ----------#
+
+@A already in the base pack
+{similar}@W warning, might have a similar mod in the base pack
+@C custom mod
+@N new mods
+
+# To stop mods from being added use ! in front of the category
+# 
+# To show a warning when the mod is added, use { and } around the 
+#    name of the category
