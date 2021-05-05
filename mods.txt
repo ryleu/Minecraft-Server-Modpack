@@ -6,3 +6,4 @@ https://www.curseforge.com/minecraft/mc-mods/bouncy-life
 https://www.curseforge.com/minecraft/mc-mods/linked-storage
 https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
 https://www.curseforge.com/minecraft/mc-mods/wall-jump-fabric
+https://github.com/FourInchKnife/Minecraft-Server-Version-Mod
