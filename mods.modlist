@@ -7,6 +7,9 @@ N https://www.curseforge.com/minecraft/mc-mods/linked-storage
 N https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
 N https://www.curseforge.com/minecraft/mc-mods/wall-jump-fabric
 
+# Library mods
+L https://github.com/Devan-Kerman/ARRP
+
 # Might be similar to stuff we have
 W https://www.curseforge.com/minecraft/mc-mods/medievalweapons
 
@@ -26,6 +29,7 @@ A https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric
 @{similar}W warning, might have a similar mod in the base pack
 @C custom mod
 @N new mods
+@L new library mod
 
 # To stop mods from being added use ! in front of the category label
 # 
