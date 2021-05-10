@@ -36,12 +36,10 @@
   ],
   "otherMods": [
     {
-      "url": "https://github.com/Devan-Kerman/ARRP",
-      "download": ""
+      "url": "https://github.com/Devan-Kerman/ARRP"
     },
     {
-      "url": "https://github.com/FourInchKnife/Minecraft-Server-Version-Mod",
-      "download": ""
+      "url": "https://github.com/FourInchKnife/Minecraft-Server-Version-Mod"
     }
   ]
 }
