@@ -1,0 +1,47 @@
+{
+  "name": "FourInchKnife's Mods",
+  "version": "0.0.0",
+  "modloader": "fabric-0.11.3",
+  "curseMods":[
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/artificial-foliage", 
+      "projectID": 476225,
+      "fileID": 3301811
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/extra-alchemy", 
+      "projectID": 247357, 
+      "fileID": 3275739
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/bouncy-life", 
+      "projectID": 321743, 
+      "fileID": 3100808
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat", 
+      "projectID": 416089, 
+      "fileID": 3299056
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/wall-jump-fabric", 
+      "projectID": 363027, 
+      "fileID": 2993705
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/fabric-seasons", 
+      "projectID": 413523, 
+      "fileID": 3303847
+    }
+  ],
+  "otherMods": [
+    {
+      "url": "https://github.com/Devan-Kerman/ARRP",
+      "download": ""
+    },
+    {
+      "url": "https://github.com/FourInchKnife/Minecraft-Server-Version-Mod",
+      "download": ""
+    }
+  ]
+}
