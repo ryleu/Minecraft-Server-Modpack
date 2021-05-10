@@ -1,6 +1,7 @@
 {
   "name": "FourInchKnife's Mods",
   "version": "0.0.0",
+  "minecraftVersion": "1.16.5",
   "modloader": "fabric-0.11.3",
   "author": "FourInchKnife",
   "curseMods":[
