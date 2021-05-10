@@ -2,7 +2,7 @@
 N https://www.curseforge.com/minecraft/mc-mods/artificial-foliage
 N https://www.curseforge.com/minecraft/mc-mods/extra-alchemy
 N https://www.curseforge.com/minecraft/mc-mods/bouncy-life
-N https://www.curseforge.com/minecraft/mc-mods/linked-storage
+# N https://www.curseforge.com/minecraft/mc-mods/linked-storage # we alrady have this functionality
 N https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
 N https://www.curseforge.com/minecraft/mc-mods/wall-jump-fabric
 N https://www.curseforge.com/minecraft/mc-mods/fabric-seasons
@@ -24,6 +24,7 @@ A https://www.curseforge.com/minecraft/mc-mods/promenade
 A https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric
 A https://www.curseforge.com/minecraft/mc-mods/villager-hats
 A https://www.curseforge.com/minecraft/mc-mods/wither-totem
+A https://www.curseforge.com/minecraft/mc-mods/kibe
 
 #---------- ---------- ---------- ---------- ---------- ---------- ----------#
 
