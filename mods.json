@@ -2,6 +2,7 @@
   "name": "FourInchKnife's Mods",
   "version": "0.0.0",
   "modloader": "fabric-0.11.3",
+  "author": "FourInchKnife",
   "curseMods":[
     {
       "url": "https://www.curseforge.com/minecraft/mc-mods/artificial-foliage", 
