@@ -79,6 +79,31 @@
       "url": "https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler-fabric",
       "projectID": 420181,
       "fileID": 3112476
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/pehkui/",
+      "projectID": 319596,
+      "fileID": 3300900
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/cardinal-components/",
+      "projectID": 318449,
+      "fileID": 318449
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/pal",
+      "projectID": 359522,
+      "fileID": 3031297
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/satin-api/",
+      "projectID": 385463,
+      "fileID": 3070595
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/fabric-api/",
+      "projectID": 306612,
+      "fileID": 3304636
     }
   ],
   "otherMods": [
