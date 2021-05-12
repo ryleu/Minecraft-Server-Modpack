@@ -99,6 +99,21 @@
       "url": "https://www.curseforge.com/minecraft/mc-mods/fabric-api/",
       "projectID": 306612,
       "fileID": 3304636
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/bow-infinity-fix/",
+      "projectID": 224713,
+      "fileID": 3036054
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/better-than-mending/",
+      "projectID": 264738,
+      "fileID": 3213798
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/servertick/",
+      "projectID": 402240,
+      "fileID": 3193663
     }
   ],
   "otherMods": [
@@ -107,6 +122,9 @@
     },
     {
       "url": "https://github.com/FourInchKnife/Minecraft-Server-Version-Mod"
+    },
+    {
+      "url": "https://github.com/FourInchKnife/True-Infinity"
     }
   ]
 }
