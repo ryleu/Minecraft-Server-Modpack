@@ -36,11 +36,6 @@
       "fileID": 3303847
     },
     {
-      "url": "https://www.curseforge.com/minecraft/mc-mods/immersive-portals-mod",
-      "projectID": 332273,
-      "fileID": 3274342
-    },
-    {
       "url": "https://www.curseforge.com/minecraft/mc-mods/big-beacons",
       "projectID": 450922,
       "fileID": 3302318
@@ -116,20 +111,34 @@
       "fileID": 3193663
     },
     {
-      "url": "https://www.curseforge.com/minecraft/mc-mods/betterf3/",
-      "projectID": 401648,
-      "fileID": 3299172
+      "url": "https://www.curseforge.com/minecraft/mc-mods/arrp/",
+      "projectID": 463113,
+      "fileID": 3255696
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/winged",
+      "projectID": null,
+      "fileID": null
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/true-infinity",
+      "projectID": 482269,
+      "fileID": 3309561
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/concrete-plus",
+      "projectID": 439266,
+      "fileID": 3268917
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/guillotine/",
+      "projectID": 439627,
+      "fileID": 3179696
     }
   ],
   "otherMods": [
     {
-      "url": "https://github.com/Devan-Kerman/ARRP"
-    },
-    {
       "url": "https://github.com/FourInchKnife/Minecraft-Server-Version-Mod"
-    },
-    {
-      "url": "https://github.com/FourInchKnife/True-Infinity"
     }
   ]
 }
