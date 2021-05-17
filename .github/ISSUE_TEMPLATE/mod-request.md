@@ -1,17 +1,22 @@
 ---
 name: Mod request
 about: Suggest adding / removing a mod
-title: "[SUGGESTION] Mod Name"
+title: "[MOD]"
 labels: enhancement
 assignees: ''
 
 ---
 
-**Is your feature request related to an issue? Please describe.**
-A clear and concise description of what the problem is. Ex. XXX mod always crashes my game...
+### Checklist (put an X in each that apply):
 
-**Describe the mod you'd like to add or remove.**
+- [ ] This mod has a Fabric version
+- [ ] This mod is for MC 1.16.5 
+- [ ] This works with the latest version of the modpack
+- [ ] This is **NOT** blatantly overpowered
+- [ ] [The link below is **NOT** to a repost](https://stopmodreposts.org)
+
+### Mod Description
 A clear and concise description of what you want to happen.
 
-**Add a link to the mod you want me to consider.**
-Add a link to the mod page of what you want me to add or remove. Make sure the mod [isn't a repost](https://stopmodreposts.org). Also confirm that the mod runs in Fabric (not Forge!).
+### Mod Page Link
+Add a link to the mod page of what you want me to add or remove.
