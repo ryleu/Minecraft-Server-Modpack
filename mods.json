@@ -63,7 +63,7 @@
     {
       "url": "https://www.curseforge.com/minecraft/mc-mods/requiem",
       "projectID": 265729,
-      "fileID": 3306469
+      "fileID": 3314427
     },
     {
       "url": "https://www.curseforge.com/minecraft/mc-mods/extreme-sound-muffler-fabric",
@@ -134,6 +134,21 @@
       "url": "https://www.curseforge.com/minecraft/mc-mods/guillotine/",
       "projectID": 439627,
       "fileID": 3179696
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/requiem-pandemonium-expansion",
+      "projectID": 481494,
+      "fileID": 481494
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/dark-rites-bewitchment-addon",
+      "projectID": 463952,
+      "fileID": 3273971
+    },
+    {
+      "url": "https://www.curseforge.com/minecraft/mc-mods/memento-mori-addon-for-requiem",
+      "projectID": 452971,
+      "fileID": 3314613
     }
   ],
   "otherMods": [
