@@ -10,7 +10,7 @@ assignees: ''
 ### Checklist (put an X in each that apply):
 
 - [ ] This mod has a Fabric version
-- [ ] This mod is for MC 1.16.5 
+- [ ] This mod is for MC 1.18
 - [ ] This works with the latest version of the modpack
 - [ ] This is **NOT** blatantly overpowered
 - [ ] [The link below is **NOT** to a repost](https://stopmodreposts.org)
